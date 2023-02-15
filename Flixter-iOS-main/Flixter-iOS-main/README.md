@@ -1,6 +1,6 @@
 # Flixter
 
-Flixter is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flixter is an app that allows users to browse movies from the [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction).
 
 ---
 
@@ -16,10 +16,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthrough GIF
 
-Image doesn't play on Github, so here's the link: https://s6.gifyu.com/images/Flixter2Demob36e93040e377df2.gif
-<img src="https://s6.gifyu.com/images/Flixter2Demob36e93040e377df2.md.gif" width=250><br>
 
 ### Notes
 Register with restoration ID too! Also don't spend too much time on things that don't matter. Also GIF can't have too high of a resolution of Github.
